@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "flake8.path": [
+    "~/.venv/bin/python",
+    "-m",
+    "flake8"
+  ]
+}
